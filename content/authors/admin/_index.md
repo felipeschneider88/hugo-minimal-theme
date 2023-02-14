@@ -35,6 +35,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/felipeschneider88
+  - icon: credit-card
+    icon_pack: fab
+    link: https://github.com/felipeschneider88
   # Link to a PDF of your resume/CV from the About widget.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

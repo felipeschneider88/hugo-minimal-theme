@@ -17,7 +17,7 @@ sections:
         text_color_light: true
         image:
           # Add your image background to `assets/media/`.
-          filename: topia.jpg
+          filename: topia.png
           filters:
             brightness: 0.4
           size: cover

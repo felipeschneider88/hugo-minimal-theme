@@ -29,12 +29,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:hola@adn.edu.uy'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/felipes88
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/felipeschneider88
   - icon: credit-card
     icon_pack: fa
     link: https://mpago.la/2TSFuMd

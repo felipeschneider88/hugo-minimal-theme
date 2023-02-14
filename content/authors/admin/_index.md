@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Topia
-name_pronunciation: topia
+name_pronunciation: Valeria Galbarini
 
 # Is this the primary user of the site?
 superuser: true

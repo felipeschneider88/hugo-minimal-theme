@@ -28,7 +28,7 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hola@adn.edu.uy'
+    link: 'mailto:contacto@topia.uy'
   - icon: cart-shopping
     icon_pack: fa
     link: https://mpago.la/2TSFuMd

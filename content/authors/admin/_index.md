@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: Topia
+name_pronunciation: topia
 
 # Is this the primary user of the site?
 superuser: true
@@ -11,7 +11,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🏝️
 
 # Organizations/Affiliations
 #organizations:

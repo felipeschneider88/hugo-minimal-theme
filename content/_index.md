@@ -9,7 +9,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        👋 Hola, este es el sitio de pre venta de **Topia**.
+        Una isla misteriosa, personajes entrañables, y una idea revolucionaria. Topia es una novela para leer y releer, 
+        un caleidoscopio de vivencias que permite al lector habitarla y dejarse habitar. Un libro que sigue la tradición de Tomás Moro, 
+        y el Shangri La de Hilton, pero desde una perspectiva actual, femenina y que invita a la acción más que a la contemplación..
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:

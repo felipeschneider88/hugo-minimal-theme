@@ -29,7 +29,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:hola@adn.edu.uy'
-  - icon: credit-card
+  - icon: cart-shopping
     icon_pack: fa
     link: https://mpago.la/2TSFuMd
 

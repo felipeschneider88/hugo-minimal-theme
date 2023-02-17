@@ -22,7 +22,7 @@ sections:
         Si, en ese caso debés considerar el costo de la encomienda. 
         Comunícate con nosotros y coordinamos el envío para luego del 25/03.
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}    
-- block: markdown
+  - block: markdown
     id: section-3
     content:
       title: Me gustaría tener la versión digital de Topia, ¿cuándo estará disponible?

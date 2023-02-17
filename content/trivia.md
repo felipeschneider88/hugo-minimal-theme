@@ -8,13 +8,13 @@ sections:
     id: section-1
     content:
       text: |-
-        **Test ¿Qué personaje de Topia eres? Averigualo en este cuestionario.**  
+        **Test ¿Qué personaje de Topia eres? Averigualo en este cuestionario.** 
+        {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
         1. _Un amigo tuyo está con problemas económicos y te lo cuenta, vos:_  
             A. Le das el dinero sin dudarlo.  
             B. Lo invitas a salir a distraerse un rato, obvio pagas vos.  
             C. Lo ayudas a hacer una planilla con sus gastos para ver en dónde puede ahorrar.  
             D. Lo acompañas a sacar un préstamo y le salís de garantía.    
-        {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
         2. _Entraron a robar a tu apartamento vos:_  
             A. Pedís las grabaciones de las cámaras de la zona y salís con fotos de los sospechosos a tratar de obtener información.  
             B. Haces la denuncia y tratas de ver el lado positivo, menos cosas para limpiar.  

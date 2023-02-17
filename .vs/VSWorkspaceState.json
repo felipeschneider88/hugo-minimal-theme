@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\media",
+    "\\assets\\scss",
+    "\\config",
+    "\\config\\_default",
+    "\\content",
+    "\\content\\authors",
+    "\\content\\authors\\admin"
   ],
-  "SelectedNode": "\\C:\\Users\\felip\\Source\\Repos\\hugo-minimal-theme",
+  "SelectedNode": "\\content\\_index.md",
   "PreviewInSolutionExplorer": false
 }

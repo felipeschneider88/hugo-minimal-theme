@@ -10,3 +10,10 @@ main:
   - name: Preguntas
     url: preguntas/
     weight: 20
+  - name: Mundo Topia
+    url: mundotopia/
+    weight: 30
+  - name: Mundo Topia
+    parent: mundotopia
+    url: trivia/
+    weight: 40

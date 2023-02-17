@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Test de personajes
+title: Trivia
 date: 2023-02-17
 type: landing
 sections:

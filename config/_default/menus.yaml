@@ -13,7 +13,7 @@ main:
   - name: Mundo Topia
     url: mundotopia/
     weight: 30
-  - name: Mundo Topia
+  - name: Test de personalidad
     parent: mundotopia
     url: trivia/
     weight: 40

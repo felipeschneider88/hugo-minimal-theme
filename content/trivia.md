@@ -14,26 +14,27 @@ sections:
             B. Lo invitas a salir a distraerse un rato, obvio pagas vos.  
             C. Lo ayudas a hacer una planilla con sus gastos para ver en dónde puede ahorrar.  
             D. Lo acompañas a sacar un préstamo y le salís de garantía.    
-        2) _Entraron a robar a tu apartamento vos:_  
-        A) Pedís las grabaciones de las cámaras de la zona y salís con fotos de los sospechosos a tratar de obtener información.  
-        B) Haces la denuncia y tratas de ver el lado positivo, menos cosas para limpiar.  
-        C) Haces la denuncia y pasas horas llamando a los diferentes seguros que tenés para tratar de recuperar algo.  
-        D) Enseguida te ponés en contacto con los vecinos para ver si están todos bien y si a alguien más le pasó vas a verlo para darle una mano.  
-        3) _El médico te hace unos estudios y estás nerviosa/o esperando los resultados, por mientras:_  
-        A) Llamas a otros tres médicos conocidos para que te expliquen opciones posibles y por las dudas haces testamento. Después quedás tranquila/o.  
-        B) Invitas a tus amigos a casa, haces un asado y tratás de no pensar en eso.  
-        C) Buscas en Google todos los síntomas y pasas toda la noche sin dormir pensando en eso.  
-        D) Llamas por teléfono a esa persona que pasó por algo similar para saber cómo está, cómo se siente ahora y si necesita que hagas algo por ella.  
-        4) _Se viene tu cumpleaños, y lo festejas..._  
-        A) Con una fiesta con tus amigos y familia más cercana.  
-        B) Con todos tus amigos, cercanos, lejanos, de Facebook, y varios vecinos del barrio que vieron luz y entraron. Cuantos más mejor.  
-        C) Con tu pareja.  
-        D) Con tu familia, cocinas para todos y los agasajas con lo que más les gusta.            
-        5) _Ganaste la lotería, vos..._  
-        A) Lo donás todo a una fundación filantrópica.  
-        B) Viajas por el mundo y le regalas plata a tus amistades y familiares si lo necesitan.  
-        C) Te compras una propiedad y ponés el resto en el banco a plazo fijo.  
-        D) Ponés ese negocio que siempre quisiste y ahí le das trabajo a gente que querés.    
+        {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+        2. _Entraron a robar a tu apartamento vos:_  
+            A. Pedís las grabaciones de las cámaras de la zona y salís con fotos de los sospechosos a tratar de obtener información.  
+            B. Haces la denuncia y tratas de ver el lado positivo, menos cosas para limpiar.  
+            C. Haces la denuncia y pasas horas llamando a los diferentes seguros que tenés para tratar de recuperar algo.  
+            D. Enseguida te ponés en contacto con los vecinos para ver si están todos bien y si a alguien más le pasó vas a verlo para darle una mano.    
+        3. _El médico te hace unos estudios y estás nerviosa/o esperando los resultados, por mientras:_  
+            A. Llamas a otros tres médicos conocidos para que te expliquen opciones posibles y por las dudas haces testamento. Después quedás tranquila/o.  
+            B. Invitas a tus amigos a casa, haces un asado y tratás de no pensar en eso.  
+            C. Buscas en Google todos los síntomas y pasas toda la noche sin dormir pensando en eso.  
+            D. Llamas por teléfono a esa persona que pasó por algo similar para saber cómo está, cómo se siente ahora y si necesita que hagas algo por ella.    
+        4. _Se viene tu cumpleaños, y lo festejas..._  
+            A. Con una fiesta con tus amigos y familia más cercana.  
+            B. Con todos tus amigos, cercanos, lejanos, de Facebook, y varios vecinos del barrio que vieron luz y entraron. Cuantos más mejor.  
+            C. Con tu pareja.  
+            D. Con tu familia, cocinas para todos y los agasajas con lo que más les gusta.    
+        5. _Ganaste la lotería, vos..._  
+            A. Lo donás todo a una fundación filantrópica.  
+            B. Viajas por el mundo y le regalas plata a tus amistades y familiares si lo necesitan.  
+            C. Te compras una propiedad y ponés el resto en el banco a plazo fijo.  
+            D. Ponés ese negocio que siempre quisiste y ahí le das trabajo a gente que querés.    
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
   - block: markdown
     id: section-2

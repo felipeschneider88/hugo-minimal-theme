@@ -31,4 +31,13 @@ sections:
         La versión digital estará disponible a partir del 25/03, por un costo de seis dólares y se podrá comprar tanto desde Uruguay como del exterior. 
         A aquellas personas que compraron el formato impreso en la preventa se les enviará la copia de forma gratuita al correo electrónico con el que hicieron la compra.
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+  - block: markdown
+    id: section-4
+    content:
+      title: Hice mi compra pero no recibí ningún correo electrónico. ¿Qué puede haber pasado?
+      text: |-
+        **Hice mi compra pero no recibí ningún correo electrónico. ¿Qué puede haber pasado?**  
+        Luego de realizada tu compra recibirás en las siguientes 48 horas un correo electrónico en la dirección que tengas asociada a MercadoPago. 
+        Por las dudas verificá también tu carpeta de Spam.
+        {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 ---
